@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App &amp; Reels Blocker</string>
+    <string name="accessibility_service_description">Monitors social media apps to block Reels, Shorts, and specified URLs to help maintain focus.</string>
+</resources>

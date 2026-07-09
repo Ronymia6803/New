@@ -1,0 +1,6 @@
+{
+  "name": "App & Reels Blocker",
+  "description": "An offline app and Reels/Shorts blocker to enhance focus and limit social media usage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
